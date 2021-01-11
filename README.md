@@ -2,6 +2,7 @@
 List of BioNLP annotated research papers, with their corresponding methods, tools, datasets etc.
 
 - [ 2020 -- Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing. ](#2020)
+- [ 2019 -- Proceedings of the 18th BioNLP Workshop and Shared Task. ](#2019)
 
 <a name="2020"></a>
 ### 2020 BioNLP Papers
@@ -21,3 +22,6 @@ List of BioNLP annotated research papers, with their corresponding methods, tool
 1. Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience [[Paper]](https://www.aclweb.org/anthology/2020.bionlp-1.19.pdf)[[Annotated Paper]](https://github.com/asad1996172/BioNLP-Annotated-Papers/blob/main/2020/14_2020_Extensive%20Error%20Analysis%20and%20a%20Learning-Based%20Evaluation%20of%20Medical%20Entity%20Recognition%20Systems%20to%20Approximate%20User%20Experience.pdf)
 1. Global Locality in Biomedical Relation and Event Extraction [[Paper]](https://www.aclweb.org/anthology/2020.bionlp-1.21.pdf)[[Annotated Paper]](https://github.com/asad1996172/BioNLP-Annotated-Papers/blob/main/2020/15_2020_Global%20Locality%20in%20Biomedical%20Relation%20and%20Event%20Extraction.pdf)
 1. An Empirical Study of Multi-Task Learning on BERT for Biomedical Text Mining [[Paper]](https://www.aclweb.org/anthology/2020.bionlp-1.22.pdf)[[Annotated Paper]](https://github.com/asad1996172/BioNLP-Annotated-Papers/blob/main/2020/16_2020_An%20Empirical%20Study%20of%20Multi-Task%20Learning%20on%20BERT%20for%20Biomedical%20Text%20Mining.pdf)
+
+<a name="2019"></a>
+### 2019 BioNLP Papers
