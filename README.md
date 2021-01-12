@@ -25,3 +25,4 @@ List of BioNLP annotated research papers, with their corresponding methods, tool
 
 <a name="2019"></a>
 ### 2019 BioNLP Papers
+1. Classifying the reported ability in clinical mobility descriptions [[Paper]](https://www.aclweb.org/anthology/W19-5001.pdf)[[Annotated Paper]](https://github.com/asad1996172/BioNLP-Annotated-Papers/blob/main/2019/1_2019_Classifying%20the%20reported%20ability%20in%20clinical%20mobility%20descriptions.pdf)
